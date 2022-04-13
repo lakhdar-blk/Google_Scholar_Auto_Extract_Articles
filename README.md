@@ -1,0 +1,1 @@
+This project is created to help researchers to get the list of articles (tiles + links) from google scholar according sopecified topics.
